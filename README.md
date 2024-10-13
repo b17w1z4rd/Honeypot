@@ -27,9 +27,9 @@ This project serves as an educational tool for cybersecurity enthusiasts and res
    ```bash
    git clone https://github.com/b17w1z4rd/Honeypot.git
    cd Honeypot
-2. Build the Project
+2. Build the Project :
    **cargo build --release**
-3. Run the honeypot
+3. Run the honeypot :
    **cargo run**
 4. Test the honeypot by connecting to it using a tool like telnet or netcat:
    **nc localhost 8080**
