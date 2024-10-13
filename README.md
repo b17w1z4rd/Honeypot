@@ -13,7 +13,7 @@ This Rust-based honeypot is designed to simulate a vulnerable server, capturing 
 
 ## Purpose
 
-This project serves as an educational tool for cybersecurity enthusiasts and researchers to study attack behaviors and improve defensive strategies. It provides insights into common techniques used by attackers, helping to enhance the security posture of real-world applications.
+Tool for cybersecurity enthusiasts and researchers to study attack behaviors and improve defensive strategies. It provides insights into common techniques used by attackers, helping to enhance the security posture of real-world applications.
 
 ## Usage
 
